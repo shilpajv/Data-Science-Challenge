@@ -16,12 +16,12 @@ Check Artifacts (private dataset)
 
  
  # Steps used for Running:
- a. Created the ML model after running certain experiments and saved it using pickle.<br>
+ a. Created the ML model after running certain experiments and saved it using pickle.The best model achieved 0.99 recall .<br>
  b. Loaded the saved file and calling the main function to perform predictions from predict file .<br>
  c. Output file is created which generated likelihood of matched outputs <br>
  
  # Report :
- Check the report.html
+ Check the report.html for all detailed findings and explanations of methodologies and inferences.
 
  
 
