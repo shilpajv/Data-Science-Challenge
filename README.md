@@ -1,6 +1,6 @@
 # Data-Science-Challenge
 Receipt Matching Task
-# [Receipt matcher](Receipt Pic.png)
+# [Receipt matcher](https://github.com/shilpajv/Data-Science-Challenge/blob/main/Receipt%20pic.PNG)
 <br>This project aims to build a receipt -transaction matcher that  should be able to take a number of‘transaction-receipt’ matches and order them with the most likely to be correct at the top of the list.<br><br>
 ![]()
 
