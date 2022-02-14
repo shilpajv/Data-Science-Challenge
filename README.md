@@ -12,7 +12,10 @@ Check Artifacts (private dataset)
  2. Xgboost
  3. Pickle
  4. Pandas
- 5. Numpy
+ 5. Plotly
+ 6. Seaborn
+ 7. Numpy
+ 8. Numpy
 
 # Challenges:
 
